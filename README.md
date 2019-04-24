@@ -1,5 +1,7 @@
 # vue6
 
+// https://medium.com/xebia/theming-in-vue-single-file-components-7b88eaa0eb6e
+
 ## Project setup
 ```
 npm install
